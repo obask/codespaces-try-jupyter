@@ -1,8 +1,9 @@
 {
     "extensions": [
-        "ms-toolsai.jupyter",
-        "ms-python.python"
-    ],
+		"ms-toolsai.jupyter",
+		"ms-python.python",
+		"ms-vsliveshare.vsliveshare"
+	],
     "codespaces": {
       "zero": {
         "defaultFile": "src/Linear.ipynb"
